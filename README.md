@@ -14,7 +14,7 @@ My name is Hannes and here are a few things about myself:
 - AR, MR, VR and XR (so basically every field with an R at the end) is awesome!!
 - Succesfull bachelors degree at the University of Media in Stuttgart, Germany
 - If you're working on a project and need a 3D / Engine / XR dude, hit me up!!
-- Mail: hello@hanneshuber.net
+- Mail: code@hanneshuber.net
 - Instagram: hanneshuber.art
 
 PS: Why is ASCII art not working in preview mode? xD
